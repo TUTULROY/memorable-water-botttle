@@ -1,0 +1,9 @@
+.bottle{
+    border: 5px solid azure;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.bottle img{
+    width: 200px;
+}
